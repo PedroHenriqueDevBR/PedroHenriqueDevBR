@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Pedro Henrique</h1>
 
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=pedrohenriquedevbr.visitor-badge)](https://github.com/pedrohenriquedevbr)
-
 - 🌱 I’m currently learning **Flutter, Python, javaScript, TypeScript, Design Pattern and Crean Code**
 - 📫 How to reach me **pedro.henrique.particular@gmail.com**
 
