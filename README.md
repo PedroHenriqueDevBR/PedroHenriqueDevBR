@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Pedro Henrique</h1>
 
-- 🌱 I’m currently learning **Flutter, Python, javaScript, TypeScript, Design Pattern and Crean Code**
+- 🌱 I’m currently learning **Flutter, Python, javaScript, TypeScript, Design Pattern and Clean Code**
 - 📫 How to reach me **pedro.henrique.particular@gmail.com**
 
 <div>
