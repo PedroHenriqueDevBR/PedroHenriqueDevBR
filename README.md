@@ -21,3 +21,5 @@
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="pedru#9900"/>
     </a>
 </div>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroHenriqueDevBR&theme=gotham)
