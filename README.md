@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Pedro Henrique</h1>
 
-- 🌱 I’m currently learning **Flutter, Python, javaScript, TypeScript, Design Pattern and Clean Code**
+- 🌱 I’m currently learning **Python, Unit Tests, Linux, SQL, Flutter, Design Pattern and Clean Code**
 - 📫 How to reach me **pedro.henrique.particular@gmail.com**
 
 <div>
@@ -21,5 +21,3 @@
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="pedru#9900"/>
     </a>
 </div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroHenriqueDevBR&theme=gotham)
