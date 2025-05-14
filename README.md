@@ -12,12 +12,8 @@
 ## Connect with me:
   
 <div> 
-    <a href="https://www.youtube.com/channel/UCsfCR2wETP80000IuMTPYNA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href = "mailto:pedro.henrique.particular@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <a href= "https://www.linkedin.com/in/pedro-henrique-br/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://discord.gg/pedru#9900" target="blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="pedru#9900"/>
     </a>
 </div>
